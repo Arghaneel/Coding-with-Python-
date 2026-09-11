@@ -1,0 +1,15 @@
+stName = input("enter students name\n")
+stUSN = input("enter the USN of the student\n")
+stMarks1 = int(input("enter the marks of subject 1\n"))
+stMarks2 = int(input("enter the marks of subject 2\n"))
+stMarks3 = int(input("enter marks of subject 3\n"))
+print("_____------------STUDENT DETAILS---------_________")
+print("NAME IS",stName)
+print("USN IS",stUSN)
+print("the marks entered are")
+print(stMarks1,stMarks2,stMarks3)
+total = stMarks1+stMarks2+stMarks3
+percentage = total/3
+print("the total marks are",total)
+print("the percentage is","%.2f"%percentage)
+print("-------------------------------")

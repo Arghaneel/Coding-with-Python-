@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../.vscode"
+		},
+		{
+			"path": "../c programming"
+		},
+		{
+			"path": "../C++"
+		},
+		{
+			"path": "../JAVASCRIPT"
+		},
+		{
+			"path": "../myenv"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../web devlopment"
+		}
+	]
+}
